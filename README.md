@@ -171,7 +171,7 @@ LaSOT, VOT2018, TrackingNet, GOT-10k, OTB-100, NFS, UAV123, TC-128, and VOT fami
 
 * **2021:**
 
-    * Target Transformed Regression for Accurate Tracking. CVPR, 2021.  <br /> Yutao Cui, Cheng Jiang, Limin Wang, Gangshan Wu. [[Paper](https://arxiv.org/pdf/2104.00403.pdf)][[Code](https://github.com/MCG-NJU/TREG)]  
+    * Target Transformed Regression for Accurate Tracking. ArXiv, 2021.  <br /> Yutao Cui, Cheng Jiang, Limin Wang, Gangshan Wu. [[Paper](https://arxiv.org/pdf/2104.00403.pdf)][[Code](https://github.com/MCG-NJU/TREG)]  
     
      * Transformer Tracking. CVPR, 2021.  <br /> Xin Chen, Bin Yan, Jiawen Zhu, Dong Wang, Xiaoyun yang, Huchuan Lu. [[Paper](https://arxiv.org/abs/2103.15436)][[Code](https://github.com/chenxin-dlut/TransT)]
      
